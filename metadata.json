@@ -1,0 +1,6 @@
+{
+  "name": "MPro AI",
+  "description": "Real-time voice-to-voice AI assistant MPro AI (Lodi Bhai) for Chandan Kumar with intelligent conversation, voice synthesis, smart tools, and dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
